@@ -1,0 +1,48 @@
+h1 {
+  color : #FFFFFF;
+  background-color: #000000;
+}
+
+
+.subtitol_main {
+  color : #0000FF ;
+  font-size : 20px ;
+}
+
+#link {
+  color : #FF0000;
+  font-style : bold;
+  font-size : 20px;
+  text-decoration: none;
+}
+
+h3 {
+  font-size : 18px ;
+}
+
+.Presentacio {
+  font-family: sans-serif;
+}
+
+#registrarse {
+  position :relative;
+  float : right;
+  margin : 0 10px ;
+
+}
+#imatge_p {
+  position : relative;
+  height : 200px ;
+  width: :200px;
+  bottom: -20px;
+}
+.subratllat {
+  color : #0000FF ;
+  font-size : 16px ;
+  text-decoration:underline;
+}
+#imatge2 {
+    height : 200px ;
+    width: :200px;
+    padding : 30px ;
+}
