@@ -16,5 +16,15 @@ h2 {
 
 .Preguntes form {
   padding-top: 20px ;
-  display:  block;
+
+}
+#diagonal {
+  display : block ;
+  position :relative ;
+  bottom: -10px;
+}
+.Preguntes button {
+  display : block;
+    position :relative ;
+  bottom: -10px;
 }
